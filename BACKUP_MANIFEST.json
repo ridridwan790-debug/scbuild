@@ -1,0 +1,22 @@
+{
+  "backupAt": "2026-08-08T15:02:04.816Z",
+  "baseDir": "./",
+  "includeFiles": [
+    "*.js",
+    "*.json",
+    "*.txt",
+    "*.md",
+    ".env",
+    ".npmrc",
+    ".gitignore"
+  ],
+  "excludeFolders": [
+    "node_modules",
+    ".git",
+    ".cache",
+    ".npm",
+    ".npm-global",
+    "backups"
+  ],
+  "filesCount": 35
+}
