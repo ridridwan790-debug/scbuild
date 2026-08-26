@@ -1,0 +1,67 @@
+[
+  {
+    "id": "gh-mt0wljcu1gy1",
+    "label": "Worker utama",
+    "repo": "ridridwan790-debug/buildridz4",
+    "token": "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",
+    "workflows": {
+      "flutter": "build-flutter.yml",
+      "android": "build-flutter.yml"
+    },
+    "enabled": true,
+    "addedBy": 8859497242,
+    "addedAt": "2026-08-20T02:30:50.433Z"
+  },
+  {
+    "id": "gh-mt0y1dz66k8w",
+    "label": "Worker1",
+    "repo": "ridridwan790-debug/ridzgg",
+    "token": "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",
+    "workflows": {
+      "flutter": "build-flutter.yml",
+      "android": "build-flutter.yml"
+    },
+    "enabled": true,
+    "addedBy": 8859497242,
+    "addedAt": "2026-08-20T03:11:09.586Z"
+  },
+  {
+    "id": "gh-mt0ybtbzeutb",
+    "label": "Worker2",
+    "repo": "ridridwan790-debug/build1",
+    "token": "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",
+    "workflows": {
+      "flutter": "build-flutter.yml",
+      "android": "build-flutter.yml"
+    },
+    "enabled": true,
+    "addedBy": 8859497242,
+    "addedAt": "2026-08-20T03:19:16.035Z"
+  },
+  {
+    "id": "gh-mt0yeaim4bi2",
+    "label": "Worker2",
+    "repo": "ziperrdev/kontolmk",
+    "token": "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",
+    "workflows": {
+      "flutter": "build-flutter.yml",
+      "android": "build-flutter.yml"
+    },
+    "enabled": true,
+    "addedBy": 8859497242,
+    "addedAt": "2026-08-20T03:21:11.618Z"
+  },
+  {
+    "id": "gh-mt0yl81qxgy3",
+    "label": "Worker4",
+    "repo": "tanziper-web/build1",
+    "token": "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",
+    "workflows": {
+      "flutter": "build-flutter.yml",
+      "android": "build-flutter.yml"
+    },
+    "enabled": true,
+    "addedBy": 8859497242,
+    "addedAt": "2026-08-20T03:26:35.008Z"
+  }
+]
